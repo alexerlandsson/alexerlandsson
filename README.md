@@ -6,6 +6,5 @@ Here you'll find some of my personal projects.
 
 #### Follow me on other places!
 
-- [alexerlandsson.com](https://alexerlandsson.com)
 - [CodePen](https://codepen.io/alexerlandsson)
 - [LinkedIn](https://se.linkedin.com/pub/alexander-erlandsson/55/8a5/159)
